@@ -1,2 +1,1 @@
-# obsidian
-Public Obsidian Vault
+And it came about that phocks wrote an Obsidian vault.
